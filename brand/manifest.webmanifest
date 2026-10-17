@@ -1,0 +1,14 @@
+{
+  "name": "FunnyGo — CS2 录像课与对局回放",
+  "short_name": "FunnyGo",
+  "description": "上传一局 demo，得到带时间轴标记的第一人称成片，或在地图上回放整局。",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F1F8F9",
+  "theme_color": "#F1F8F9",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
