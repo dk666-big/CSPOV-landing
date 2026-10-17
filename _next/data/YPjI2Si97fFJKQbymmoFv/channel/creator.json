@@ -1,0 +1,1 @@
+{"pageProps":{"channel":{"id":"creator","title":"创作者面板","line":"上传 demo 即可成片，进度可见","card":"card_creator.webp","accent":"ember","desc":"上传一局 demo，几分钟后得到带时间轴标记的成片。进度实时可见，成片可分享、可离线看。","tags":["自动渲染","进度可见","一键分享"],"points":["上传后实时显示渲染进度","成片可直接播放、跳到任意一秒","生成分享链接，或缓存到本地离线看"]}},"__N_SSG":true}
