@@ -1,0 +1,1 @@
+{"pageProps":{"channel":{"id":"replay","title":"对局回放","line":"解析 demo，在地图上回放整局","card":"card_replay.webp","accent":"blue","desc":"上传一局 demo，解析后在地图上以 CT/T 棋子回放整局。时间轴可拖，击杀标记点击即达，不占用渲染任务额度。","tags":["2D 回放","CT/T","击杀标记","不占额度"],"points":["九张常驻地图的底图与坐标已标定","拖动时间轴，点击击杀标记跳转","解析失败只降级回放，不影响其他功能"]}},"__N_SSG":true}
